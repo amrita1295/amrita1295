@@ -28,6 +28,7 @@
 <h3 align="left">Support:</h3>
 <a href="https://www.buymeacoffee.com/money148006"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="money148006" /></a>
 
+<img align="right" src="https://user-images.githubusercontent.com/56605853/196895744-701ea3d3-2a7e-44cf-ac56-4f076530793d.gif" alt="WORK FROM HOME" />
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrita1295&show_icons=true&locale=en&layout=compact" alt="amrita1295"  width="460" height="300"  /> -->
