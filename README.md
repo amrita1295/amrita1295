@@ -31,5 +31,5 @@
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrita1295&show_icons=true&locale=en&layout=compact" alt="amrita1295"  width="460" height="300"  /> -->
-<p align="left"><img  src="https://github-readme-stats.vercel.app/api?username=amrita1295&show_icons=true&locale=en" alt="amrita1295"  width="460" height="300"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amrita1295&" alt="amrita1295"  width="460" height="300" /></p>
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api?username=amrita1295&show_icons=true&locale=en" alt="amrita1295"  width="420" height="300"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amrita1295&" alt="amrita1295"  width="420" height="300" /></p>
 
