@@ -29,7 +29,7 @@
 <div align="center" > <img  src="https://user-images.githubusercontent.com/56605853/196895744-701ea3d3-2a7e-44cf-ac56-4f076530793d.gif" alt="WORK FROM HOME" width="460" height="300"/>
 </div>
 
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrita1295&show_icons=true&locale=en&layout=compact" alt="amrita1295"  width="460" height="300"  /> -->
 <p align="left"><img  src="https://github-readme-stats.vercel.app/api?username=amrita1295&show_icons=true&locale=en" alt="amrita1295"  width="420" height="300"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amrita1295&" alt="amrita1295"  width="420" height="300" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrita1295&show_icons=true&locale=en&layout=compact" alt="amrita1295"  width="420" height="300"  /> 
 
